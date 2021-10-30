@@ -1,6 +1,6 @@
-# highLow.py
+# guessNumber.py
 #
-# Python Bootcamp Day 12 - High Low Game
+# Python Bootcamp Day 12 - Guess a number
 # Usage:
 #      Pick a number between 1 and 100 with 2 levels of difficulty.
 #
